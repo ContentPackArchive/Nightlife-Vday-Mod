@@ -1,5 +1,5 @@
 # Nightlife-Vday-Mod
-Toontown Online Valentine's Day mod meant for Nightlife created by King Fireball.
+Toontown Online Valentine's Day mod meant for Nightlife created by King Fireball. This Content Pack is currently not fully functional with Toontown Rewritten.
 
 # Information
 
